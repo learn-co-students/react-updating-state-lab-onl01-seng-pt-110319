@@ -43,6 +43,7 @@ describe('<YouTubeDebugger />', () => {
     errors: [],
     user: null,
     settings: {
+      test: 0,
       bitrate: 8,
       video: {
         resolution: '1080p'
